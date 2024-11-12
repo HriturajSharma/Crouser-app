@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crouser-app/static/css/main.38cdee3a.css",
+    "main.js": "/Crouser-app/static/js/main.9569b82d.js",
+    "static/js/453.7958b224.chunk.js": "/Crouser-app/static/js/453.7958b224.chunk.js",
+    "index.html": "/Crouser-app/index.html",
+    "main.38cdee3a.css.map": "/Crouser-app/static/css/main.38cdee3a.css.map",
+    "main.9569b82d.js.map": "/Crouser-app/static/js/main.9569b82d.js.map",
+    "453.7958b224.chunk.js.map": "/Crouser-app/static/js/453.7958b224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38cdee3a.css",
+    "static/js/main.9569b82d.js"
+  ]
+}
